@@ -2,7 +2,7 @@
 
 ![pollution](https://github.com/user-attachments/assets/8afe0523-bdcd-4a52-8c4d-35fe41c98cb5)
 
-Greenhouse gas emissions from the manufacturing and transportation of consumer products account for over 75% of global emissions. To better understand this impact, this analysis examines product carbon footprints (PCFs), which measure the total greenhouse gas emissions attributable to a product in terms of CO\<sub\>2\</sub\> equivalent.
+Greenhouse gas emissions from the manufacturing and transportation of consumer products account for over 75% of global emissions. To better understand this impact, this analysis examines product carbon footprints (PCFs), which measure the total greenhouse gas emissions attributable to a product in terms of CO2 equivalent.
 The goal is to analyze a database of PCFs to identify which industry groups have the largest carbon footprints, based on the most recent year of available data.
 
 ## The Dataset
