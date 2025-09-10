@@ -34,7 +34,7 @@ To determine the total carbon footprint for each industry, a single SQL query wa
 3.  For each industry, count the number of unique companies and calculate the total carbon footprint by summing the `carbon_footprint_pcf` values.
 4.  Order the results to show the industries with the highest footprints first.
 
-The analysis successfully ranked the industries by their total carbon footprint. The **Materials** industry has the largest footprint at **107,129.0 CO\<sub\>2\</sub\>e**, followed closely by **Capital Goods** at **94,942.7 CO\<sub\>2\</sub\>e**. The **Technology Hardware & Equipment** industry also has a significant footprint, while other sectors like Software and Services have a comparatively minor impact.
+The analysis successfully ranked the industries by their total carbon footprint. The **Materials** industry has the largest footprint at **107,129.0 CO2**, followed closely by **Capital Goods** at **94,942.7 CO2**. The **Technology Hardware & Equipment** industry also has a significant footprint, while other sectors like Software and Services have a comparatively minor impact.
 
 ## Conclusion
 
